@@ -543,3 +543,4 @@ Espace utilisé :
 ✅ Installation terminée !
 Pour lancer une app : flatpak run com.exemple.App... ou depuis votre menu Fedora !
 Pour lister : flatpak list --app
+
