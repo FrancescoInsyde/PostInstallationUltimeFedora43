@@ -1,0 +1,545 @@
+Dossier de sauvegarde :  /root/backup-paquets-20251210-0422
+🚀 6714 paquets → 500 par batch
+Removed 18 files, 6 directories (total of 82 MiB). 0 errors occurred.
+Metadata cache created.
+🔥 Batch → 500 paquets
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Paquet                               Architecture Version         Dépôt      Taille
+Installation d'une version antérieure de :
+ engauge-digitizer                   x86_64       1:12.1-18.fc43  fedora   12.1 MiB
+   remplacement de engauge-digitizer x86_64       1:12.9.1-2.fc43 updates  12.7 MiB
+Paquets avec conflits ignorés :
+ fcitx5                              x86_64       5.1.16-1.fc43   updates   4.7 MiB
+ qt5-qtbase                          x86_64       5.15.18-1.fc43  updates   9.8 MiB
+Paquets avec dépendances défectueuses ignorés :
+ dtkcore                             x86_64       5.7.7-4.fc43    updates   2.2 MiB
+
+Résumé de la transaction :
+ Remplacement :      1 paquet
+ Inst. v. anté. :    1 paquet
+ Ignorés :           3 paquets
+
+🔥 Batch → 500 paquets
+Paquet Architecture Version                          Dépôt     Taille
+Paquets avec dépendances défectueuses ignorés :
+ gala  x86_64       8.2.3^20250610.git42ab42a-1.fc43 fedora   1.6 MiB
+
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Paquet           Architecture Version        Dépôt      Taille
+Paquets avec conflits ignorés :
+ kimagemapeditor x86_64       25.08.3-1.fc43 updates   2.1 MiB
+ kubernetes1.31  x86_64       1.31.14-1.fc43 updates  75.2 MiB
+ kubernetes1.33  x86_64       1.33.6-1.fc43  updates  80.1 MiB
+ kubernetes1.34  x86_64       1.34.2-1.fc43  updates  58.7 MiB
+Paquets avec dépendances défectueuses ignorés :
+ kefir           x86_64       0.4.1-2.fc43   fedora   90.7 MiB
+
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Paquet  Architecture Version       Dépôt      Taille
+Installation de :
+ libdfx x86_64       2025.2-2.fc43 updates  49.9 KiB
+
+Résumé de la transaction :
+ Installation :      1 paquet
+
+🔥 Batch → 500 paquets
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Paquet       Architecture Version         Dépôt     Taille
+Paquets avec conflits ignorés :
+ mariadb11.8 x86_64       3:11.8.3-2.fc43 fedora  23.5 MiB
+ mysql       x86_64       8.4.6-2.fc43    fedora  51.7 MiB
+ mysql8.0    x86_64       8.0.43-1.fc43   fedora  58.3 MiB
+
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Paquet              Architecture Version        Dépôt      Taille
+Paquets avec conflits ignorés :
+ postgresql16       x86_64       16.11-1.fc43   updates   7.8 MiB
+ postgresql         x86_64       18beta1-4.fc43 fedora    8.1 MiB
+ postgresql17       x86_64       17.6-1.fc43    fedora    7.9 MiB
+Paquets avec dépendances défectueuses ignorés :
+ postgresql-contrib x86_64       18.1-1.fc43    updates   3.6 MiB
+ pg_auto_failover   x86_64       2.1-6.fc42     fedora    1.2 MiB
+ postgresql-contrib x86_64       18beta1-4.fc43 fedora    3.6 MiB
+
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Aucune tâche à effectuer.
+🔥 Batch → 500 paquets
+Paquet     Architecture Version                          Dépôt     Taille
+Paquets avec dépendances défectueuses ignorés :
+ wingpanel x86_64       8.0.3^20250611.git7990904-1.fc43 fedora 396.0 KiB
+
+Aucune tâche à effectuer.
+🔥 Batch → 214 paquets
+Paquet Architecture Version                    Dépôt     Taille
+Paquets avec conflits ignorés :
+ z88dk x86_64       1.10.1-33.20150709cvs.fc43 fedora  13.0 MiB
+
+Aucune tâche à effectuer.
+🎉 6714 paquets installés !
+Sauvegarde des paquets (Veuillez patienter...)
+Mise à jour après installation...
+Paquet                                            Architecture Version         Dépôt                               Taille
+Mise à jour de :
+ NetworkManager-libreswan                         x86_64       1.2.29-1.fc43   updates                          587.3 KiB
+   remplacement de NetworkManager-libreswan       x86_64       1.2.26-2.fc43   d15e557246b143e68b4d7cf7c8078e9c 533.7 KiB
+ NetworkManager-libreswan-gnome                   x86_64       1.2.29-1.fc43   updates                          211.8 KiB
+   remplacement de NetworkManager-libreswan-gnome x86_64       1.2.26-2.fc43   d15e557246b143e68b4d7cf7c8078e9c 199.7 KiB
+ Pencil2D                                         x86_64       0.7.0-18.fc43   updates                            3.7 MiB
+   remplacement de Pencil2D                       x86_64       0.7.0-14.fc43   fedora                             3.7 MiB
+ anubis                                           x86_64       1.23.1-1.fc43   updates                           38.7 MiB
+   remplacement de anubis                         x86_64       1.23.0-1.fc43   updates                           38.1 MiB
+ baresip                                          x86_64       4.3.0-1.fc43    updates                            2.0 MiB
+   remplacement de baresip                        x86_64       4.1.0-1.fc43    fedora                             2.0 MiB
+ baresip-pipewire                                 x86_64       4.3.0-1.fc43    updates                           55.4 KiB
+   remplacement de baresip-pipewire               x86_64       4.1.0-1.fc43    fedora                            55.4 KiB
+ double-conversion                                x86_64       3.4.0-1.fc43    updates                           97.9 KiB
+   remplacement de double-conversion              x86_64       3.3.1-4.fc43    d15e557246b143e68b4d7cf7c8078e9c  97.6 KiB
+ engauge-digitizer                                x86_64       1:12.9.1-2.fc43 updates                           12.7 MiB
+   remplacement de engauge-digitizer              x86_64       1:12.1-18.fc43  fedora                            12.1 MiB
+ imhex                                            x86_64       1.37.4-3.fc43   updates                           36.0 MiB
+   remplacement de imhex                          x86_64       1.37.4-2.fc43   fedora                            36.0 MiB
+ imhex-patterns                                   x86_64       1.37.4-3.fc43   updates                            4.0 MiB
+   remplacement de imhex-patterns                 x86_64       1.37.4-2.fc43   fedora                             4.0 MiB
+ ldns                                             x86_64       1.9.0-1.fc43    updates                          445.8 KiB
+   remplacement de ldns                           x86_64       1.8.4-8.fc43    d15e557246b143e68b4d7cf7c8078e9c 441.0 KiB
+ libinput                                         x86_64       1.30.1-1.fc43   updates                          675.0 KiB
+   remplacement de libinput                       x86_64       1.30.0-1.fc43   <inconnu>                        675.0 KiB
+ libjxl                                           i686         1:0.11.1-7.fc43 updates                            2.7 MiB
+   remplacement de libjxl                         i686         1:0.11.1-6.fc43 <inconnu>                          2.6 MiB
+ libjxl                                           x86_64       1:0.11.1-7.fc43 updates                            4.1 MiB
+   remplacement de libjxl                         x86_64       1:0.11.1-6.fc43 d15e557246b143e68b4d7cf7c8078e9c   3.1 MiB
+ libre                                            x86_64       4.3.0-1.fc43    updates                          906.5 KiB
+   remplacement de libre                          x86_64       4.1.0-1.fc43    fedora                           906.6 KiB
+ libtinysparql                                    i686         3.10.1-5.fc43   updates                            1.0 MiB
+   remplacement de libtinysparql                  i686         3.10.1-1.fc43   <inconnu>                          1.3 MiB
+ libtinysparql                                    x86_64       3.10.1-5.fc43   updates                          995.0 KiB
+   remplacement de libtinysparql                  x86_64       3.10.1-1.fc43   d15e557246b143e68b4d7cf7c8078e9c   1.3 MiB
+ lunasvg                                          x86_64       3.5.0-1.fc43    updates                          271.8 KiB
+   remplacement de lunasvg                        x86_64       3.1.0-3.fc43    fedora                           503.1 KiB
+ opam                                             x86_64       2.5.0-2.fc43    updates                           14.5 MiB
+   remplacement de opam                           x86_64       2.4.1-1.fc43    fedora                            14.5 MiB
+ opam-installer                                   x86_64       2.5.0-2.fc43    updates                            7.1 MiB
+   remplacement de opam-installer                 x86_64       2.4.1-1.fc43    fedora                             7.2 MiB
+ python-unversioned-command                       noarch       3.14.2-1.fc43   updates                           23.0   B
+   remplacement de python-unversioned-command     noarch       3.14.0-2.fc43   <inconnu>                         23.0   B
+ python3                                          x86_64       3.14.2-1.fc43   updates                           28.9 KiB
+   remplacement de python3                        x86_64       3.14.0-2.fc43   <inconnu>                         28.9 KiB
+ python3-boto3                                    noarch       1.42.5-1.fc43   updates                            2.3 MiB
+   remplacement de python3-boto3                  noarch       1.42.4-1.fc43   updates                            2.3 MiB
+ python3-botocore                                 noarch       1.42.5-1.fc43   updates                          108.5 MiB
+   remplacement de python3-botocore               noarch       1.42.4-1.fc43   updates                          108.4 MiB
+ python3-devel                                    x86_64       3.14.2-1.fc43   updates                            1.9 MiB
+   remplacement de python3-devel                  x86_64       3.14.0-2.fc43   updates                            1.9 MiB
+ python3-idle                                     x86_64       3.14.2-1.fc43   updates                            5.3 MiB
+   remplacement de python3-idle                   x86_64       3.14.0-2.fc43   <inconnu>                          5.3 MiB
+ python3-libs                                     x86_64       3.14.2-1.fc43   updates                           43.1 MiB
+   remplacement de python3-libs                   x86_64       3.14.0-2.fc43   <inconnu>                         43.0 MiB
+ python3-tkinter                                  x86_64       3.14.2-1.fc43   updates                            2.1 MiB
+   remplacement de python3-tkinter                x86_64       3.14.0-2.fc43   <inconnu>                          2.1 MiB
+ qbittorrent                                      x86_64       1:5.1.4-1.fc43  updates                           13.3 MiB
+   remplacement de qbittorrent                    x86_64       1:5.1.3-1.fc43  updates                           13.3 MiB
+ qt6-qtbase                                       x86_64       6.10.1-2.fc43   updates                           13.2 MiB
+   remplacement de qt6-qtbase                     x86_64       6.10.1-1.fc43   <inconnu>                         13.2 MiB
+ qt6-qtbase-common                                noarch       6.10.1-2.fc43   updates                           76.0   B
+   remplacement de qt6-qtbase-common              noarch       6.10.1-1.fc43   <inconnu>                         76.0   B
+ qt6-qtbase-devel                                 x86_64       6.10.1-2.fc43   updates                           21.8 MiB
+   remplacement de qt6-qtbase-devel               x86_64       6.10.1-1.fc43   updates                           21.8 MiB
+ qt6-qtbase-gui                                   x86_64       6.10.1-2.fc43   updates                           26.2 MiB
+   remplacement de qt6-qtbase-gui                 x86_64       6.10.1-1.fc43   <inconnu>                         26.2 MiB
+ qt6-qtbase-ibase                                 x86_64       6.10.1-2.fc43   updates                          157.6 KiB
+   remplacement de qt6-qtbase-ibase               x86_64       6.10.1-1.fc43   updates                          157.6 KiB
+ qt6-qtbase-mysql                                 x86_64       6.10.1-2.fc43   updates                          113.4 KiB
+   remplacement de qt6-qtbase-mysql               x86_64       6.10.1-1.fc43   <inconnu>                        113.4 KiB
+ qt6-qtbase-odbc                                  x86_64       6.10.1-2.fc43   updates                          145.0 KiB
+   remplacement de qt6-qtbase-odbc                x86_64       6.10.1-1.fc43   updates                          145.0 KiB
+ qt6-qtbase-postgresql                            x86_64       6.10.1-2.fc43   updates                          129.2 KiB
+   remplacement de qt6-qtbase-postgresql          x86_64       6.10.1-1.fc43   updates                          129.2 KiB
+ strace                                           x86_64       6.18-1.fc43     updates                            2.7 MiB
+   remplacement de strace                         x86_64       6.17-1.fc43     <inconnu>                          2.7 MiB
+ tinysparql                                       x86_64       3.10.1-5.fc43   updates                            2.5 MiB
+   remplacement de tinysparql                     x86_64       3.10.1-1.fc43   d15e557246b143e68b4d7cf7c8078e9c   2.5 MiB
+ vokoscreenNG                                     x86_64       4.7.3-1.fc43    updates                            4.3 MiB
+   remplacement de vokoscreenNG                   x86_64       4.6.0-2.fc43    fedora                             4.2 MiB
+Paquets avec conflits ignorés :
+ python3-pandas                                   x86_64       2.3.3-2.fc43    updates                           41.7 MiB
+ qt5-qtbase                                       x86_64       5.15.18-1.fc43  updates                            9.8 MiB
+Paquets avec dépendances défectueuses ignorés :
+ dwayland                                         x86_64       5.25.0-12.fc43  fedora                             2.8 MiB
+ dtkcore                                          x86_64       5.7.7-4.fc43    updates                            2.2 MiB
+
+Résumé de la transaction :
+ Mise à jour :      40 paquets
+ Remplacement :     40 paquets
+ Ignorés :           4 paquets
+
+Removed 18 files, 11 directories (total of 82 MiB). 0 errors occurred.
+Metadata cache created.
+Taille du dosiier /usr après installation :  132G
+Nombre de paquets installés :  15556
+Nombre de programmes installés au total :  1925
+=== TOP 30 RUBRIQUES FEDORA TITAN ===
+    542 Qt
+    416 KDE
+    350 Game
+    296 GTK
+    242 Utility
+    195 Graphics
+    171 GNOME
+    161 Network
+    157 AudioVideo
+    143 System
+    132 Education
+    130 Office
+    129 Settings
+    118 Development
+    107 Audio
+    102 Science
+     80 ArcadeGame
+     78 LogicGame
+     76 Viewer
+     48 StrategyGame
+     48 DesktopSettings
+     47 Application
+     41 ActionGame
+     40 HamRadio
+     39 Player
+     33 Math
+     31 BoardGame
+     31 2DGraphics
+     30 Electronics
+     29 Midi
+
+=== TOP 20 APPS PAR RUBRIQUE ===
+     24 Office;Graphics
+     24 Office;
+     14 Office;Viewer
+     10 Office;Network
+      9 Office;WordProcessor
+      7 Office;Calendar
+      5 Office;Finance
+      5 Office;Database
+      4 Office;Publishing
+      4 Office;ContactManagement
+      3 Office;Spreadsheet
+      3 Office;Presentation
+      2 Office;X-Mandriva-Office-Publishing
+      2 Office;Translation
+      2 Office;Qt
+      2 Office;ProjectManagement
+      2 Office;GTK
+      2 Office;Email
+      1 Office;X-Red-Hat-Base
+      1 Office;VectorGraphics
+Aucune tâche à effectuer.
+******************** IMPORTANT ***********************
+Pour activer cette politique de paquet, exécutez :
+
+semodule -i my-snapupdatens.pp
+
+******************** IMPORTANT ***********************
+Pour activer cette politique de paquet, exécutez :
+
+semodule -i my-snapd.pp
+
+Installation de artikulate ...
+Installation de clion ...
+Installation de helix ...
+Installation de hey-mail ...
+Installation de insomnia ...
+Installation de josm ...
+Installation de kolourpaint ...
+Installation de minetest ...
+Installation de mumble ...
+Installation de Name ...
+Installation de okular ...
+Installation de Provide ...
+Installation de tdhcad ...
+Installation de terminal-parrot ...
+Installation de vault ...
+Installation de warzone2100 ...
+Installation de whalebird ...
+Sauvegarde des paquets (Veuillez patienter...)
+Mise à jour après installation
+Taille du dosiier snapd après installation :  40G
+Nombre de programmes installés au total :  1925
+=== TOP 30 RUBRIQUES FEDORA TITAN ===
+    542 Qt
+    416 KDE
+    350 Game
+    296 GTK
+    242 Utility
+    195 Graphics
+    171 GNOME
+    161 Network
+    157 AudioVideo
+    143 System
+    132 Education
+    130 Office
+    129 Settings
+    118 Development
+    107 Audio
+    102 Science
+     80 ArcadeGame
+     78 LogicGame
+     76 Viewer
+     48 StrategyGame
+     48 DesktopSettings
+     47 Application
+     41 ActionGame
+     40 HamRadio
+     39 Player
+     33 Math
+     31 BoardGame
+     31 2DGraphics
+     30 Electronics
+     29 Midi
+
+=== TOP 20 APPS PAR RUBRIQUE ===
+     24 Office;Graphics
+     24 Office;
+     14 Office;Viewer
+     10 Office;Network
+      9 Office;WordProcessor
+      7 Office;Calendar
+      5 Office;Finance
+      5 Office;Database
+      4 Office;Publishing
+      4 Office;ContactManagement
+      3 Office;Spreadsheet
+      3 Office;Presentation
+      2 Office;X-Mandriva-Office-Publishing
+      2 Office;Translation
+      2 Office;Qt
+      2 Office;ProjectManagement
+      2 Office;GTK
+      2 Office;Email
+      1 Office;X-Red-Hat-Base
+      1 Office;VectorGraphics
+🚀 Flatpak Mass Install - Fedora 43 Edition
+==========================================
+📡 Mise à jour des métadonnées AppStream...
+Updating appstream data for remote fedora
+Updating appstream data for remote flathub
+Working on the system installation at /var/lib/flatpak
+[2/139] Verifying flathub:runtime/org.freedesktop.Platform.openh264/x86_64/2.2.0…
+[4/139] Verifying flathub:runtime/org.freedesktop.Platform.VAAPI.Intel/x86_64/25.08…
+[6/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/25.08…
+[8/139] Verifying flathub:runtime/org.gnome.Builder.Locale/x86_64/stable…
+[10/139] Verifying flathub:runtime/org.kde.Platform/x86_64/5.15-23.08…
+[11/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/24.08extra…
+[12/139] Verifying flathub:runtime/org.freedesktop.Platform.VAAPI.Intel/x86_64/24.08…
+[14/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/24.08…
+[17/139] Verifying flathub:runtime/org.freedesktop.Platform/x86_64/25.08…
+[18/139] Verifying flathub:app/org.virt_manager.virt-viewer/x86_64/stable…
+[25/139] Verifying flathub:runtime/io.github.Foldex.AdwSteamGtk.Locale/x86_64/stable…
+[26/139] Verifying flathub:runtime/org.freedesktop.Platform.VAAPI.Intel/x86_64/23.08…
+[28/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/23.08…
+[31/139] Verifying flathub:runtime/org.freedesktop.Platform/x86_64/24.08…
+[32/139] Verifying flathub:app/io.github.bcpierce00.unison/x86_64/stable…
+[35/139] Verifying flathub:runtime/org.freedesktop.Platform.openh264/x86_64/2.5.1…
+[36/139] Verifying flathub:runtime/org.freedesktop.Platform.VAAPI.Intel/x86_64/22.08…
+[37/139] Verifying flathub:app/com.github.PintaProject.Pinta/x86_64/stable…
+[38/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/22.08…
+[41/139] Verifying flathub:app/org.supertuxproject.SuperTux/x86_64/stable…
+[42/139] Verifying flathub:runtime/org.freedesktop.Platform/x86_64/22.08…
+[43/139] Verifying flathub:runtime/org.gnome.Sdk/x86_64/49…
+[47/139] Verifying flathub:runtime/org.virt_manager.virt_manager.Locale/x86_64/stable…
+[48/139] Verifying flathub:app/net.supertuxkart.SuperTuxKart/x86_64/stable…
+[50/139] Verifying flathub:runtime/org.freedesktop.Platform.codecs-extra/x86_64/25.08-extra…
+[52/139] Verifying flathub:runtime/org.gnome.Platform/x86_64/43…
+[55/139] Verifying flathub:runtime/org.kde.KStyle.Adwaita/x86_64/5.15-23.08…
+[56/139] Verifying flathub:app/io.github.cmus.cmus/x86_64/stable…
+[57/139] Verifying flathub:runtime/org.freedesktop.Platform.Locale/x86_64/25.08…
+[60/139] Verifying flathub:app/party.supertux.supertuxparty/x86_64/stable…
+[63/139] Verifying flathub:runtime/com.github.PintaProject.Pinta.Locale/x86_64/stable…
+[67/139] Verifying flathub:runtime/org.freedesktop.Platform.Compat.i386/x86_64/25.08…
+[68/139] Verifying flathub:app/com.steamgriddb.steam-rom-manager/x86_64/stable…
+[70/139] Verifying flathub:runtime/org.freedesktop.Platform.Locale/x86_64/24.08…
+[73/139] Verifying flathub:runtime/org.freedesktop.Platform.GL32.default/x86_64/25.08-extra…
+[75/139] Verifying flathub:app/com.google.Chrome/x86_64/stable…
+[77/139] Verifying flathub:runtime/org.freedesktop.Platform.GL32.default/x86_64/25.08…
+[78/139] Verifying flathub:runtime/org.gnome.Platform.Locale/x86_64/43…
+[82/139] Verifying flathub:runtime/org.gnome.Platform/x86_64/48…
+[83/139] Verifying flathub:runtime/com.valvesoftware.Steam.CompatibilityTool.Proton-GE/x86_64/stable…
+[84/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/22.08-extra…
+[87/139] Verifying flathub:app/org.libretro.RetroArch/x86_64/stable…
+[88/139] Verifying flathub:runtime/org.freedesktop.Platform.codecs_extra.i386/x86_64/25.08-extra…
+[89/139] Verifying flathub:runtime/org.gnome.Platform/x86_64/49…
+[90/139] Verifying flathub:runtime/org.freedesktop.Platform.Locale/x86_64/22.08…
+[91/139] Verifying flathub:app/net.sourceforge.scidavis/x86_64/stable…
+[93/139] Verifying flathub:runtime/org.freedesktop.Platform.VAAPI.Intel.i386/x86_64/25.08…
+[96/139] Verifying flathub:app/com.steamdeckrepo.manager/x86_64/stable…
+[97/139] Verifying flathub:app/io.podman_desktop.PodmanDesktop/x86_64/stable…
+[98/139] Verifying flathub:app/org.virt_manager.virt-manager/x86_64/stable…
+[99/139] Verifying flathub:app/io.github.Foldex.AdwSteamGtk/x86_64/stable…
+[100/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/23.08-extra…
+[103/139] Verifying flathub:runtime/org.kde.Platform.Locale/x86_64/6.10…
+[107/139] Verifying flathub:app/com.valvesoftware.Steam/x86_64/stable…
+[109/139] Verifying flathub:app/com.steamgriddb.SGDBoop/x86_64/stable…
+[112/139] Verifying flathub:runtime/org.gnome.Platform.Locale/x86_64/48…
+[114/139] Verifying flathub:app/org.gnome.Builder/x86_64/stable…
+[118/139] Verifying flathub:runtime/org.kde.Platform.Locale/x86_64/5.15-23.08…
+[119/139] Verifying flathub:runtime/net.sourceforge.scidavis.Locale/x86_64/stable…
+[120/139] Verifying flathub:runtime/org.gnome.Platform.Locale/x86_64/49…
+[123/139] Verifying flathub:runtime/org.virt_manager.virt_manager.Extension.Qemu/x86_64/stable…
+[125/139] Verifying flathub:runtime/org.freedesktop.Platform.GL.default/x86_64/25.08-extra…
+[126/139] Verifying flathub:app/org.gnome.Rhythmbox3/x86_64/stable…
+[127/139] Verifying flathub:runtime/org.gnome.Rhythmbox3.Locale/x86_64/stable…
+[130/139] Verifying flathub:runtime/org.gnome.Sdk.Locale/x86_64/49…
+[131/139] Verifying flathub:app/com.valvesoftware.SteamLink/x86_64/stable…
+[132/139] Verifying flathub:runtime/org.virt_manager.virt_viewer.Locale/x86_64/stable…
+[133/139] Verifying flathub:app/net.blumia.pineapple-steam-recording-exporter/x86_64/stable…
+[137/139] Verifying flathub:runtime/org.kde.Platform/x86_64/6.10…
+Checking remotes...
+Pruning objects
+Erasing .removed
+📋 9 applications trouvées
+Exemples : com.github.makhber io.github.bcpierce00.unison io.github.cmus.cmus io.github.htkhiem io.github.thetumultuousunicornofdarkness.cpu net.sourceforge.quakespasm net.sourceforge.scidavis org.kitone.subtitleeditor uk.co.electronstudio ...
+
+[1/9] 📦 Installation de com.github.makhber ...
+⚠  Erreur sur com.github.makhber, continuation...
+[2/9] 📦 Installation de io.github.bcpierce00.unison ...
+[3/9] 📦 Installation de io.github.cmus.cmus ...
+[4/9] 📦 Installation de io.github.htkhiem ...
+⚠  Erreur sur io.github.htkhiem, continuation...
+[5/9] 📦 Installation de io.github.thetumultuousunicornofdarkness.cpu ...
+⚠  Erreur sur io.github.thetumultuousunicornofdarkness.cpu, continuation...
+[6/9] 📦 Installation de net.sourceforge.quakespasm ...
+⚠  Erreur sur net.sourceforge.quakespasm, continuation...
+[7/9] 📦 Installation de net.sourceforge.scidavis ...
+[8/9] 📦 Installation de org.kitone.subtitleeditor ...
+⚠  Erreur sur org.kitone.subtitleeditor, continuation...
+[9/9] 📦 Installation de uk.co.electronstudio ...
+⚠  Erreur sur uk.co.electronstudio, continuation...
+Looking for matches…
+Looking for matches…
+Looking for matches…
+Looking for matches…
+Looking for matches…
+Looking for matches…
+Looking for matches…
+Sauvegarde des paquets (Veuillez patienter..)
+Mise à jour après installation
+Looking for updates…
+
+Info: runtime org.kde.Platform branch 5.15-23.08 is end-of-life, with reason:
+   We strongly recommend moving to the latest stable version of the Platform and SDK
+Info: applications using this runtime:
+   net.sourceforge.scidavis
+
+Info: runtime org.gnome.Platform branch 43 is end-of-life, with reason:
+   The GNOME 43 runtime is no longer supported as of September 20, 2023. Please ask your application developer to migrate to a supported platform.
+Info: applications using this runtime:
+   com.steamdeckrepo.manager
+
+Info: runtime org.freedesktop.Platform branch 22.08 is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this runtime:
+   party.supertux.supertuxparty
+
+Info: runtime org.freedesktop.Platform.VAAPI.Intel branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.sourceforge.scidavis
+
+Info: runtime org.freedesktop.Platform.VAAPI.Intel branch 22.08 is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   party.supertux.supertuxparty, com.steamdeckrepo.manager
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.sourceforge.scidavis
+
+Info: runtime org.freedesktop.Platform.GL.default branch 23.08 is end-of-life, with reason:
+   org.freedesktop.Platform 23.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   net.sourceforge.scidavis
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08-extra is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   party.supertux.supertuxparty, com.steamdeckrepo.manager
+
+Info: runtime org.freedesktop.Platform.GL.default branch 22.08 is end-of-life, with reason:
+   org.freedesktop.Platform 22.08 is no longer receiving fixes and security updates. Please update to a supported runtime version.
+Info: applications using this extension:
+   party.supertux.supertuxparty, com.steamdeckrepo.manager
+
+Nothing to do.
+Taille su dossier flatpak apès installation :  16G
+Nombre de programmes installés au total :  1925
+=== TOP 30 RUBRIQUES FEDORA TITAN ===
+    542 Qt
+    416 KDE
+    350 Game
+    296 GTK
+    242 Utility
+    195 Graphics
+    171 GNOME
+    161 Network
+    157 AudioVideo
+    143 System
+    132 Education
+    130 Office
+    129 Settings
+    118 Development
+    107 Audio
+    102 Science
+     80 ArcadeGame
+     78 LogicGame
+     76 Viewer
+     48 StrategyGame
+     48 DesktopSettings
+     47 Application
+     41 ActionGame
+     40 HamRadio
+     39 Player
+     33 Math
+     31 BoardGame
+     31 2DGraphics
+     30 Electronics
+     29 Midi
+
+=== TOP 20 APPS PAR RUBRIQUE ===
+     90 Office
+      3 X-SuSE-Core-Office
+      2 X-Mandriva-Office-Publishing
+      1 /usr/share/applications/ZeGrapher.desktop:Categories=Office
+      1 /usr/share/applications/tkremind.desktop:Categories=Office
+      1 /usr/share/applications/texstudio.desktop:Categories=Office
+      1 /usr/share/applications/texmaker.desktop:Categories=Office
+      1 /usr/share/applications/Saaghar.desktop:Categories=Office
+      1 /usr/share/applications/projecteur.desktop:Categories=Office
+      1 /usr/share/applications/pageedit.desktop:Categories=Office
+      1 /usr/share/applications/org.tug.texworks.desktop:Categories=Office
+      1 /usr/share/applications/org.pwmt.zathura.desktop:Categories=Office
+      1 /usr/share/applications/org.kde.karp.desktop:Categories=Office
+      1 /usr/share/applications/org.kde.CrowTranslate.desktop:Categories=Office
+      1 /usr/share/applications/org.goldendict.GoldenDict.desktop:Categories=Office
+      1 /usr/share/applications/org.gnumeric.gnumeric.desktop:Categories=Office
+      1 /usr/share/applications/lyx.desktop:Categories=Office
+      1 /usr/share/applications/libreoffice-writer.desktop:Categories=Office
+      1 /usr/share/applications/libreoffice-startcenter.desktop:Categories=Office
+      1 /usr/share/applications/libreoffice-math.desktop:Categories=Office
+=== 📊 STATISTIQUES FINALES ===
+Apps installées : 21
+Espace utilisé :
+16G	/var/lib/flatpak/
+4,0K	/root/.local/share/flatpak/
+✅ Installation terminée !
+Pour lancer une app : flatpak run com.exemple.App... ou depuis votre menu Fedora !
+Pour lister : flatpak list --app
