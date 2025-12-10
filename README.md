@@ -28,3 +28,10 @@
 ✅ RetroArch + SuperTuxKart + SuperTuxParty
 ✅ 350+ RPM Games + 17 Steam tools
 ✅ PlayOnLinux = cacahuète pulvérisée !
+
+echo ""
+echo "🙌════════════════════════════════════════════════════🙌"
+echo "         À mon VIEUX FERNAND, mon BRAVE FERNAND,"
+echo "         mon PETIT CHOU À LA CRÈME FOUETTÉE™ ! 🥧😍"
+echo "  Outsider.Org - francesc@outsider.org 🐧"
+echo "🙌════════════════════════════════════════════════════🙌"
